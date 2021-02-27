@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'RocknRoll One', sans-serif;
+  line-height: 2;
+}
+
+h1 {
+
+  font-size: 5.625rem;
+  font-family: 'Caveat', cursive;
+  margin:  auto 0 auto;
+}
+
+h2 {
+  color: #11999e;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #11999e;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.top-container {
+  color: #30e3ca;
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 150px;
+}
+
+.middle-container {
+  padding: 30px 0;
+}
+
+.bottom-container {
+  color: #11999e;
+  padding: 30px 0 16px 0;
+  background-color: #e4f9f5;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.second_cloud {
+  width: 10%;
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.first_cloud {
+  width: 12%;
+  position: absolute;
+  right: 300px;
+  top: 100px;
+
+}
+
+.mountain {
+  padding-top: 0;
+}
+
+
+
+.profile{
+  padding: 50px 0;
+}
+
+.div{
+  padding: 50px 0;
+}
+
+.subtitle{
+  font-weight: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.python{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.photo{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.computer{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.skills{
+  padding-bottom: 20px
+}
+
+hr{
+  border-style: dotted none none ;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  width: 5%;
+}
+
+.contact-me{
+  padding: 20px 0;
+}
+
+.btn{
+  margin-top: 10px;
+  border-radius: 10%;
+  padding: 10px 5px;
+  background-color: #30e3ca;
+  color: #EAF6F6;
+}
